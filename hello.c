@@ -2,5 +2,6 @@
 //test
 int main() {
   printf("<h1>Hello, Hongik!</h1>\n");
+  printf("wtf");
   return 0;
 }
